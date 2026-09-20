@@ -1,0 +1,64 @@
+# Blender 5.0.1 MTL File: 'Untitled2.blend'
+# www.blender.org
+
+newmtl Corner_thingy
+Ka 1.000000 1.000000 1.000000
+Kd 0.039580 0.037974 0.039969
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Ns C:/Users/User/OneDrive/Робочий стіл/Blender n stuff/textures n stuff/Poliigon_ConcreteWorn_8690/1K/Poliigon_ConcreteWorn_8690_Roughness.jpg
+map_Bump -bm 0.400000 C:/Users/User/OneDrive/Робочий стіл/Blender n stuff/textures n stuff/Poliigon_ConcreteWorn_8690/1K/Poliigon_ConcreteWorn_8690_Normal.png
+
+newmtl Frame
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.021573 0.021573 0.021573
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Glass
+Ns 1000.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 0.126524
+illum 9
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Roof_concrete
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.008777 0.008777 0.008777
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Wall
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 0.300000 C:/Users/User/OneDrive/Робочий стіл/Blender n stuff/textures n stuff/StoneBricksSplitface001/StoneBricksSplitface001_NRM_1K.png
