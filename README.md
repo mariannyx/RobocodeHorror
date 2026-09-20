@@ -17,4 +17,4 @@
 - Проблеми з Git: пишіть у чат, не лагодьте самотужки.
 
 ## Задачі
-[Посиланнячко](https://github.com/mariannyx/RobocodeHorror/projects)
+[Силочка](https://github.com/mariannyx/RobocodeHorror/projects)
