@@ -1,8 +1,7 @@
 # RobocodeHorror
 
 ## Версія Unity
-6.3 LTS
-Universal 3D
+6.3 LTS, Universal 3D
 
 ## Швидкий старт
 1. Встановіть Git і Unity потрібної версії.
@@ -18,4 +17,4 @@ Universal 3D
 - Проблеми з Git: пишіть у чат, не лагодьте самотужки.
 
 ## Задачі
-[<GitHub Project>](https://github.com/mariannyx/RobocodeHorror/projects)
+[Tasks](https://github.com/mariannyx/RobocodeHorror/projects)
