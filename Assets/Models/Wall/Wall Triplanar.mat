@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Wall
-  m_Shader: {fileID: -6465566751694194690, guid: a2ee82cd02b39ce4a801f8acc77d1f02, type: 3}
+  m_Name: Wall Triplanar
+  m_Shader: {fileID: -6465566751694194690, guid: 6f9b703e813cf8448a12694ce8281b59, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -46,12 +46,12 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ShadowPower: 0.3
-    - _Smoothness: 0.1
+    - _Smoothness: 0
     m_Colors:
     - _Color1: {r: 0.7803922, g: 0.7568628, b: 0.6941177, a: 1}
     - _Color2: {r: 0.62745106, g: 0.6, b: 0.5254902, a: 1}
     - _Normal_Clamp: {r: 0.51, g: 0.52, b: 0, a: 0}
-    - _Shadowy_Color: {r: 0.47599998, g: 0.454641, b: 0.39971793, a: 1}
+    - _Shadowy_Color: {r: 0.627451, g: 0.6, b: 0.5254902, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &4713020393544895847

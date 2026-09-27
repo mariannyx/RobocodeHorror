@@ -17,7 +17,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5076102451256384047
 Transform:
@@ -165,6 +165,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 646632023921792401, guid: 64c265d494e568c4b8fae1d63ff11c60, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 3076840334874599228, guid: 64c265d494e568c4b8fae1d63ff11c60, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.826
@@ -221,9 +225,21 @@ PrefabInstance:
       propertyPath: m_LocalRotation.z
       value: 0.09229291
       objectReference: {fileID: 0}
+    - target: {fileID: 4544881713989437010, guid: 64c265d494e568c4b8fae1d63ff11c60, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 5901237171907008455, guid: 64c265d494e568c4b8fae1d63ff11c60, type: 3}
       propertyPath: m_Name
       value: TheComputar
+      objectReference: {fileID: 0}
+    - target: {fileID: 5901237171907008455, guid: 64c265d494e568c4b8fae1d63ff11c60, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 6551113408146296564, guid: 64c265d494e568c4b8fae1d63ff11c60, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8523219606375964931, guid: 64c265d494e568c4b8fae1d63ff11c60, type: 3}
       propertyPath: m_LocalPosition.x
