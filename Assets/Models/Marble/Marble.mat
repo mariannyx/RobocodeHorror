@@ -58,6 +58,7 @@ Material:
     - _Contrast: -1.63
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _ShadowPower: 1
     - _Smoothness: 0.012
     m_Colors:
     - _Color1: {r: 0.17254902, g: 0.17254902, b: 0.18823531, a: 1}
